@@ -1,3 +1,4 @@
+#include "stdio.h"
 const Txt_Rev "Esto es la revisión 008"
 
 void main(void){
