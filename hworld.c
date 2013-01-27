@@ -1,9 +1,11 @@
-#include "stdio.h"
+const Txt_Rev "Esto es la revisión 008"
 
 void main(void){
-  printf("\n\n====================================\n");
-  printf("Esto es otra prueba de Hola mundo - 7!!\n");
-  printf("Estamso en la verison 7 ya knijo!\n");
-  printf("Esto es una prueba de Hola mundo(7!!)!");
-  printf("\n====================================\n\n");
+  print("\n\n");
+  printf("\n====================================\n");
+  printf("Estamos ya por la revision 008!");
+  printf("\n====================================\n");
+  print("\n");
+  print("\n");
+
 }
