@@ -2,7 +2,7 @@
 
 void main(void){
   printf("\n\n====================================\n");
-  printf("Esto es otra prueba de Hola mundo - 5!!\n");
-  printf("Esto es una prueba de Hola mundo(5!!)!");
+  printf("Esto es otra prueba de Hola mundo - 6!!\n");
+  printf("Esto es una prueba de Hola mundo(6!!)!");
   printf("\n====================================\n\n");
 }
