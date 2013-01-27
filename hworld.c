@@ -1,12 +1,12 @@
 #include "stdio.h"
-const Txt_Rev "Esto es la revisión 008"
+#define Str_Ver "009"
 
 void main(void){
-  print("\n\n");
+  printf("\n\n");
   printf("\n====================================\n");
-  printf("Estamos ya por la revision 008!");
+  printf("Estamos ya por la revision %s", Str_Ver);
   printf("\n====================================\n");
-  print("\n");
-  print("\n");
+  printf("\n");
+  printf("\n");
 
 }
