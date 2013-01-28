@@ -8,5 +8,6 @@ void main(void){
   printf("\n====================================\n");
   printf("\n");
   printf("\n");
+  print("jajaja");
 
 }
